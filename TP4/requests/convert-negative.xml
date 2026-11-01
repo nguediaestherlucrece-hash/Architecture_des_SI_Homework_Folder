@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:ser="http://soap.tp.com/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ser:convert>
+            <amount>-10</amount>
+            <from>EUR</from>
+            <to>XAF</to>
+        </ser:convert>
+    </soapenv:Body>
+</soapenv:Envelope>

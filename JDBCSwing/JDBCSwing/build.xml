@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Vous pouvez remplacer/modifier ces cibles au besoin.
+     Pour du fonctionnement Ant pur sans NetBeans, gardez à l'esprit
+     que le fichier nbproject/build-impl.xml est régénéré automatiquement
+     par NetBeans à l'ouverture du projet (ne pas l'éditer à la main). -->
+<project name="JDBCSwing" default="default" basedir=".">
+    <description>Builds, tests, and runs the project JDBCSwing.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
